@@ -1,4 +1,5 @@
 ## Pluto
+![pluto](https://github.com/pluto/.github/assets/57912727/3df79a54-1a03-4339-8433-fdf938b9cde3)
 
 Pluto is an applied cryptography company.
 <!--
