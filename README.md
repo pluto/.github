@@ -14,36 +14,18 @@
 
 Pluto is a set of developer tools that makes applied cryptography accessible to developers across the world. 
 
-Our first tools help developers incorporate Web Proofs into their applications. Web Proofs are a new type of zero-knowledge proof that enable verifiable access to Web2 data sources.
+Our tools help developers incorporate Web Proofs into their applications that enable verifiable access to Web2 data sources.
 
 For more information on Pluto, see our [documentation](https://docs.pluto.xyz), [website](https://pluto.xyz), or follow us on [Twitter](https://twitter.com/plutolabs_).
 
 
-## Web Proofs 
 
-The Web Proofs SDK consists of three main components:
-1. Pluto CLI
-2. Pluto web SDK
-3. Pluto mobile SDK
-
-Developers can generate Web Proofs on demand using our SDK/CLI. At launch, this platform supports proofs for OAuth signatures, JSON Web tokens, Venmo transaction history, Reddit posting history, and Amazon purchase history.
-
-## Main repositories
-
-- [Ronkathon](https://github.com/pluto/ronkathon): Educational project for learning about applied cryptography; a Rust implementation of a collection of cryptographic primitives.
-- [Web Prover](https://github.com/pluto/web-prover): [Description of Web Prover repo]
-- [AES Proof](https://github.com/pluto/aes-proof): Implementation of AES-GCM in Circom.
-- [Extractor](https://github.com/pluto/extractor): Tool for extracting and processing Web2 data for Web Proofs
-- [Web Proofs](https://github.com/pluto/web-proofs): A TypeScript library designed to help applications generate Web Proofs for seamless integration with our iOS mobile app and Chrome extension
-- [Attest Integrations](https://github.com/pluto/attest-integrations): A container for Web Proof target domain integrations.
-  
 ## Contributing
 
 We welcome contributions to our open-source projects. If you want to contribute or follow along with contributor discussions, join our [main Telegram channel](https://t.me/pluto_xyz/1) to chat about Pluto's development.
 
 Our contributor guidelines can be found in [CONTRIBUTING.md](./CONTRIBUTING.md). A good starting point is issues labelled 'bounty' in our repositories.
 
-For now, we're inviting collaborators to participate in [Ronkathon](https://github.com/pluto/ronkathon) educational project. In the coming weeks, we will be open-sourcing other core product repositories, which will also have open issues for contributors.
 
 ## Getting help
 
