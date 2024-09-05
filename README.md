@@ -12,7 +12,7 @@
 </div>
 
 
-Pluto is a set of developer tools that makes applied cryptography accessible to developers across the world. 
+Pluto is building a set of developer tools that makes applied cryptography accessible to developers across the world. 
 
 Our tools help developers incorporate Web Proofs into their applications that enable verifiable access to Web2 data sources.
 
@@ -32,16 +32,7 @@ Our contributor guidelines can be found in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 Your question might already be answered in our [docs](https://docs.pluto.xyz) or on our FAQ. If not:
 
-- Join our [Telegram](https://t.me/pluto_xyz/1) to get help and participate in discussions
-- Open a discussion [link to discussions]
-- Open an issue [link to issues]
-
-  
-## Acknowledgements
-
-TLSN team
-Origo
-Electron Labs, aes proof
-python plonkathon
-plonk-by-hand
+- Join our Telegran to get help and participate in discussions
+- Open a discussion in the relevant repo
+- Open an issue in the relevant repo
 
