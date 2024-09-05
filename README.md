@@ -32,7 +32,7 @@ Our contributor guidelines can be found in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 Your question might already be answered in our [docs](https://docs.pluto.xyz) or on our FAQ. If not:
 
-- Join our Telegran to get help and participate in discussions
+- Join our Telegram to get help and participate in discussions
 - Open a discussion in the relevant repo
 - Open an issue in the relevant repo
 
