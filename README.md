@@ -34,5 +34,5 @@ Your question might already be answered in our [docs](https://docs.pluto.xyz) or
 
 - Join our Telegram to get help and participate in discussions
 - Open a discussion in the relevant repository
-- Open an issue in the relevant repo
+- Open an issue in the relevant repository
 
