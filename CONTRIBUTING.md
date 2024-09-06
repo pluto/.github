@@ -58,7 +58,7 @@ unclear.
 
 The most important pieces of information we need in a bug report are:
 
-- The version that you are on (and that it is up to date)
+- The version of the software that you are on (and that it is up to date)
 - The platform you are on (Windows, macOS/m1 Mac, Linux)
 - Code snippets if this is happening in relation to testing or building code
 - Concrete steps to reproduce the bug
