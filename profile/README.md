@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/pluto/Brand/blob/main/Logo/Logo%20Mark/assets_ios_Pluto-1024%401x.png" alt="Pluto Logo" width="60" height="60">
+<img src="https://raw.githubusercontent.com/pluto/.github/main/profile/assets/assets_ios_Pluto-1024%401x.png" alt="Pluto Logo" width="60" height="60">
 
 # Pluto
 
