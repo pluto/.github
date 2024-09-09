@@ -1,17 +1,15 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/pluto/.github/main/profile/assets/assets_ios_Pluto-1024%401x.png" alt="Pluto Logo" width="60" height="60">
-
-# Pluto
-
-[![Telegram](https://img.shields.io/badge/Telegram-Group-8B5CF6?style=flat-square&logo=telegram&logoColor=white&labelColor=24292e&scale=1.5)](https://t.me/pluto_xyz/1)
-[![Docs](https://img.shields.io/badge/Docs-Pluto-8B5CF6?style=flat-square&logo=readme&logoColor=white&labelColor=24292e&scale=1.5)](https://docs.pluto.xyz/)
-
-[![GitHub Stars](https://img.shields.io/github/stars/pluto?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=24292e&color=8B5CF6&scale=1.5)](https://github.com/pluto)
-[![GitHub Followers](https://img.shields.io/github/followers/pluto?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=24292e&color=8B5CF6&scale=1.5)](https://github.com/pluto)
-[![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=white&label=Repos&labelColor=24292e&color=8B5CF6&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2Fpluto&scale=1.5)](https://github.com/pluto)
-</div>
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pluto/.github/main/profile/assets/assets_ios_Pluto-1024%401x.png" alt="Pluto Logo" width="50" height="50">
+  <br>
+  <b style="font-size: 24px;">Pluto</b>
+</p>
+<p align="center">
+  <a href="https://t.me/pluto_xyz/1"><img src="https://img.shields.io/badge/Telegram-Group-8B5CF6?style=flat-square&logo=telegram&logoColor=white&labelColor=24292e&scale=1.5" alt="Telegram"></a>
+  <a href="https://docs.pluto.xyz/"><img src="https://img.shields.io/badge/Docs-Pluto-8B5CF6?style=flat-square&logo=readme&logoColor=white&labelColor=24292e&scale=1.5" alt="Docs"></a>
+  <a href="https://github.com/pluto"><img src="https://img.shields.io/github/stars/pluto?style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=24292e&color=8B5CF6&scale=1.5" alt="GitHub Stars"></a>
+  <a href="https://github.com/pluto"><img src="https://img.shields.io/github/followers/pluto?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=24292e&color=8B5CF6&scale=1.5" alt="GitHub Followers"></a>
+  <a href="https://github.com/pluto"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=white&label=Repos&labelColor=24292e&color=8B5CF6&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2Fpluto&scale=1.5" alt="GitHub Repos"></a>
+</p>
 Pluto is building a set of developer tools that makes applied cryptography accessible to developers across the world. 
 
 Our tools help developers incorporate Web Proofs into their applications that enable verifiable access to Web2 data sources.
