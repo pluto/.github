@@ -118,7 +118,7 @@ preserving their name and e-mail address in the commit log, or by using the `Aut
 tag in the commits.
 
 
-### Contributions Related to Spelling and Grammar
+### Contributions related to spelling and grammar
 
 At this time, we will not be accepting contributions that only fix spelling or grammatical errors in documentation, code or elsewhere.
 
