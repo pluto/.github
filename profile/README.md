@@ -10,7 +10,7 @@
   <a href="https://github.com/pluto"><img src="https://img.shields.io/github/followers/pluto?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=24292e&color=8B5CF6&scale=1.5" alt="GitHub Followers"></a>
   <a href="https://github.com/pluto"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=white&label=Repos&labelColor=24292e&color=8B5CF6&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2Fpluto&scale=1.5" alt="GitHub Repos"></a>
 </p>
-Pluto is building a set of developer tools that makes applied cryptography accessible to developers across the world. 
+Pluto is building a developer tools that make applied cryptography accessible to all developers.
 
 Our tools help developers incorporate Web Proofs into their applications that enable verifiable access to Web2 data sources.
 
