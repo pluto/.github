@@ -23,13 +23,3 @@ For more information on Pluto, see our [documentation](https://docs.pluto.xyz), 
 We welcome contributions to our open-source projects. If you want to contribute or follow along with contributor discussions, join our [main Telegram channel](https://t.me/pluto_xyz/1) to chat about Pluto's development.
 
 Our contributor guidelines can be found in [CONTRIBUTING.md](./CONTRIBUTING.md). A good starting point is issues labelled 'bounty' in our repositories.
-
-
-## Getting help
-
-
-Your question might already be answered in our [docs](https://docs.pluto.xyz) or on our FAQ. If not:
-
-- Join our Telegram to get help and participate in discussions
-- Open a discussion in the relevant repository
-- Open an issue in the relevant repository
