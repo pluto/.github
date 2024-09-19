@@ -13,6 +13,7 @@
   - [Be aware of the person behind the code](#be-aware-of-the-person-behind-the-code)
   - [Abandoned or stale pull requests](#abandoned-or-stale-pull-requests)
   - [Contributions related to spelling and grammar](#contributions-related-to-spelling-and-grammar)
+  - [Getting help](#getting-help)
 
 
 
@@ -117,8 +118,14 @@ left). When doing so, it is courteous to give the original contributor credit fo
 preserving their name and e-mail address in the commit log, or by using the `Author: ` or `Co-authored-by: ` metadata
 tag in the commits.
 
-
 ### Contributions related to spelling and grammar
 
 At this time, we will not be accepting contributions that only fix spelling or grammatical errors in documentation, code or elsewhere.
 
+### Getting help
+
+Your question might already be answered in our [docs](https://docs.pluto.xyz) or on our FAQ. If not:
+
+- Join [our Telegram](https://t.me/pluto_xyz/1) to get help and participate in discussions
+- Open a discussion in the relevant repository
+- Open an issue in the relevant repository
