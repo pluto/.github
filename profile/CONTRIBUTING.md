@@ -29,7 +29,7 @@ If you contribute to this project, your contributions will be made to the projec
 
 ## Code of Conduct
 
-The Pluto project adheres to the [Rust Code of Conduct](https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md). This code of conduct describes the minimum behavior expected from all contributors.
+The Pluto project adheres to the [Rust Code of Conduct](https://www.rust-lang.org/policies/code-of-conduct). This code of conduct describes the minimum behavior expected from all contributors.
 
 Instances of violations of the Code of Conduct can be reported by contacting the team at [eng@pluto.xyz](mailto:eng@pluto.xyz).
 
