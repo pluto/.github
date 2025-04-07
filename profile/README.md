@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-8B5CF6.svg?label=license&labelColor=2a2f35" alt="License">
 </p>
 
-Pluto’s mission is to commoditize trust and empower everyone to build sovereign economies. We will do so while shipping useful intermediate products. Our first tools help developers incorporate Web Proofs into their applications. Web Proofs enable verifiable access to Web2 data sources.
+Pluto’s mission is to commoditize trust and empower everyone to build sovereign economies. 
+
+Our first tools help developers incorporate Web Proofs into their applications. Web Proofs enable verifiable access to data coming from any internet server.
 
 For more information on Pluto, see our [documentation](https://docs.pluto.xyz), [website](https://pluto.xyz), or follow us on [Twitter](https://twitter.com/plutolabs_).
 
