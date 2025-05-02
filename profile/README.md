@@ -12,11 +12,19 @@
   <img src="https://img.shields.io/badge/License-Apache%202.0-8B5CF6.svg?label=license&labelColor=2a2f35" alt="License">
 </p>
 
-Pluto’s mission is to commoditize trust and empower everyone to build sovereign economies. 
+Pluto is an API for any web data. 
 
-Our first tools help developers incorporate Web Proofs into their applications. Web Proofs enable verifiable access to data coming from any internet server.
+Developers can embed Pluto to authenticate users, share data, and perform actions on users’ behalf for any site on the internet.
 
-For more information on Pluto, see our [documentation](https://docs.pluto.xyz), [website](https://pluto.xyz), or follow us on [Twitter](https://twitter.com/plutolabs_).
+There are 3 major components to Pluto's architecture:
+- Embedded Automations, which power automated actions for users
+- Pluto Frame, which is an integrated component for adding authenticated Embedded Automations into your application
+- Pluto Functions, which can execute arbitrary JS functions to retrieve and compute over data
+Embedded Automations and Functions receive a signed attestation of correct execution from our secure infrastructure, which can be verified locally.
+
+Pluto runs on secure infrastructure and uses best-in-class encryption.
+
+For more information on Pluto, see our [documentation](https://docs.pluto.xyz), [website](https://www.pluto.xyz), or follow us on [Twitter](https://twitter.com/plutolabs_).
 
 ## Contributing
 
